@@ -1,4 +1,3 @@
-import Pygithub
 from random import randint
 
 # Receber informação se o usuario quer ou não jogar
